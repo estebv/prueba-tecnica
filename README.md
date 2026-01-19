@@ -2,7 +2,9 @@
 ----------------------------------------------------------prueba-ESTEBAN VANEGAS ARROYAVE---------------------------------
 
 --instalar dependencias--
-npm install
+
+npm install next react react-dom lucide-react @tanstack/react-query zustand clsx tailwind-merge
+
 
 --iniciar proyecto--
 npm run dev
